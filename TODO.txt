@@ -1,0 +1,10 @@
+JAvascript TODO
+
+Dropdown menus with calendars
+sticky menus that react to scroll position
+make locale menu work
+BETTER Dropdown MENUS (hover out to close)
+
+CSS TODO
+experiences searchbar version + label hax to change it
+:SCREENSHOT!
